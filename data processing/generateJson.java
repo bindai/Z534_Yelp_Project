@@ -1,4 +1,4 @@
-package firstTaskYelp;
+package com.yelp;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
